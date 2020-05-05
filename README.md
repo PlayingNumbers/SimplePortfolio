@@ -1,4 +1,4 @@
-# SimplePortfolio
+# Simple Portfolio
 A Bare bones data science portfolio webpage
 
 # [Project 1: Data Science Salary Estimator](https://github.com/PlayingNumbers/ds_salary_proj "Project Repo")
